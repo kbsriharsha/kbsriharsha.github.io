@@ -2,4 +2,6 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-welcome-to-lagrange %}).
+"Data is a Living thing, it can talk, move and grow" -- Harsha
+A customer focussed and business centeric Data Scientist with specialities in Machine Learning, Deep Learning, Natural Language Processing and Big Data Analytics. 
+
