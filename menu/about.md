@@ -8,7 +8,7 @@ title: Bharat Sri Harsha karpurapu
 <p>Trying to get my first name, you got 3! combinations to choose from :D</p>
 
 <div id="wrapper" style="width:100%; text-align:center">
-<img src="kbsriharsha.github.io/assets/img/IMG_1251_cropped.png" alt="Its me3" height="185" width="185" align="middle">
+<img src="https://kbsriharsha.github.io/assets/img/IMG_1251_cropped.png" alt="Its me3" height="185" width="185" align="middle">
 </div>
 ![alt text](https://kbsriharsha.github.io/assets/img/IMG_1251_cropped.png)
 
