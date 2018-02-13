@@ -1,6 +1,6 @@
 # Change to true for Disqus comments
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
 google-ID: 'UA-112060364-1'
