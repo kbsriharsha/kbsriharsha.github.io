@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Bharat Sri Harsha Karpurapu
+title: Bharat Sri Harsha karpurapu
 ---
+
 "Data is a Living thing, it can talk, move and grow" -- Harsha
 
 <p>Trying to get my first name, you got 3! combinations to choose from :D</p>
