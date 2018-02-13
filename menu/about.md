@@ -10,8 +10,7 @@ title: Bharat Sri Harsha karpurapu
 <div id="wrapper" style="width:100%; text-align:center">
 <img src="kbsriharsha.github.io/assets/img/IMG_1251_cropped.png" alt="Its me3" height="185" width="185" align="middle">
 </div>
-![alt text](assets/img/IMG_1251_cropped.png)
-![alt text](https://kbsriharsha.github.io/assets/img/IMG_1251_cropped.png"Lagrange Demo Image")
+![alt text](kbsriharsha.github.io/assets/img/IMG_1251_cropped.png)
 
 <p>A customer focussed and business centeric Data Scientist with specialities in Machine Learning, Deep Learning, Natural Language Processing and Big Data Analytics. </p>
 
