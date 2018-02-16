@@ -26,10 +26,6 @@ Once the kaggle-cli is installed on the server, this will expose kg shell comman
 ```
 $ kg download -u <username> -p <password> -c <competetionname>
 ```
-    * u - username
-    * p - password
-    * c - competetion name
-
 
 This will download all the files related to that comptetion to your current directory. 
 
@@ -38,7 +34,6 @@ This will download all the files related to that comptetion to your current dire
 ```
 $ kg download -u <username> -p <password> -c <competetionname> -f <filename>
 ```
-    * f - filename
         
 Note: Before downloading the data for any competition make sure you are entering the competetion by accepting the terms and conditions of the competetion, then only you can download the data for that particular comptetion. 
 
@@ -52,7 +47,6 @@ $ kg submit <filename> -u <username> -p <password> -c <competetionname> -m "mess
 ```
 $ kg download -u kbsriharsha@gmail.com -p harsha124 -c datasciencebowl2018 
 ```
-
 ```
 $ kg submit submission1.csv kbsriharsha@gmail.com -p harsha124 -c datasciencebowl2018 -m "TrailSubmission"
 ```
