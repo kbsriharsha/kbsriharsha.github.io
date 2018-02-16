@@ -6,7 +6,7 @@ categories: journal
 ---
 
 ### What is Kaggle?
-Kaggle is a leading Data Science Competetion platform where data scientists, data analysts, and machine learning scientists compete for generating the best models on the data sets uploaded by different private and public entities. 
+Kaggle is the leading Data Science Competetion platform where data scientists, data analysts, and machine learning scientists compete for generating the best models on the data sets uploaded by different private and public entities. 
 * Other competetors include
     * Driven Data
     * Analytics Vidya
