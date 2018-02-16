@@ -13,7 +13,7 @@ Kaggle is the leading Data Science Competetion platform where data scientists, d
     * Crowd AnalytiX
 
 ### Downloading the Kaggle Competetion Data?
-Due to the high volumes of the competetion data, downloading the kaggle comptetion data can be cumbersome, and also there are some cases, where we need to download the data directly on the remote servers / clouds. Initial way is to download the data on to you local machine and then scp to the remote server or to the cloud. But there is more efficient way in achieving this through the [Kaggle-cli](https://github.com/floydwch/kaggle-cli) (an unofficial kaggle command line tool)
+Due to the high volumes of the competetion data, downloading the kaggle competetion data can be cumbersome, and also there are some cases, where we need to download the data directly on the remote servers / clouds. Initial way is to download the data on to you local machine and then scp to the remote server or to the cloud. But there is more efficient way in achieving this through the [Kaggle-cli](https://github.com/floydwch/kaggle-cli) (an unofficial kaggle command line tool)
 
 * Downloading kaggle-cli
 
