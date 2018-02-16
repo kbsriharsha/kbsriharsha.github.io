@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Important Anaconda Commands"
+author: "KBSH"
+tags: ["anconda", "Data Science", "Kaggle", "Command line", "Python"]
+categories: journal
+---
 
 ## Important Anaconda Commands
 
