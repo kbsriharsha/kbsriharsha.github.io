@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting Examples"
-author: "Paul Le"
+title: "Mark Down Foramtting"
+author: "KBSH"
 categories: journal
 tags: [documentation,sample]
 image: cards.jpg
