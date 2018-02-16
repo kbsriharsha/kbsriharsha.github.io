@@ -17,7 +17,7 @@ Due to the high volumes of the competetion data, downloading the kaggle compteti
 
 * Downloading kaggle-cli
 
-*sudo pip install kaggle-cli*
+    *sudo pip install kaggle-cli*
 
 Once the kaggle-cli is installed on the server, this will expose kg shell command, using which we can the data for a particular competetion and even submit the prediction results. 
 
