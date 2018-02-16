@@ -2,6 +2,7 @@
 layout: post
 title: "Downloading Kaggle Competition Data"
 author: "KBSH"
+tags: "Kaggle", "Data Science", "Downaloading Kaggle Competetion data"
 categories: journal
 ---
 
