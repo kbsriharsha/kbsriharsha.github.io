@@ -16,6 +16,7 @@ Kaggle is the leading Data Science Competetion platform where data scientists, d
 Due to the high volumes of the competetion data, downloading the kaggle comptetion data can be cumbersome, and also there are some cases, where we need to download the data directly on the remote servers / clouds. Initial way is to download the data on to you local machine and then scp to the remote server or to the cloud. But there is more efficient way in achieving this through the [Kaggle-cli](https://github.com/floydwch/kaggle-cli) (an unofficial kaggle command line tool)
 
 * Downloading kaggle-cli
+
 ```
 $ sudo pip install kaggle-cli
 ```
@@ -24,7 +25,7 @@ Once the kaggle-cli is installed on the server, this will expose kg shell comman
 * Downloading the data for a competetion
 
 ```
-$ kg download -u <username> -p <password> -c <competetionname>
+$ kg download -u <username> -p <passwrd> -c <competetion>
 ```
 
 This will download all the files related to that comptetion to your current directory. 
@@ -32,7 +33,7 @@ This will download all the files related to that comptetion to your current dire
 * Downloading a specific data file in the competetion
 
 ```
-$ kg download -u <username> -p <password> -c <competetionname> -f <filename>
+$ kg download -u <username> -p <passwrd> -c <competetion> -f <filename>
 ```
         
 Note: Before downloading the data for any competition make sure you are entering the competetion by accepting the terms and conditions of the competetion, then only you can download the data for that particular comptetion. 
@@ -40,7 +41,7 @@ Note: Before downloading the data for any competition make sure you are entering
 * Making submission for a competition
 
 ```
-$ kg submit <filename> -u <username> -p <password> -c <competetionname> -m "message"
+$ kg submit <filename> -u <username> -p <passwrd> -c <competetion> -m "message"
 ```
 * Example: 
 
