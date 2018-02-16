@@ -22,8 +22,9 @@ $ sudo pip install kaggle-cli
 Once the kaggle-cli is installed on the server, this will expose kg shell command, using which we can the data for a particular competetion and even submit the prediction results. 
 
 * Downloading the data for a competetion
+
 ```
-$ kg download -u '******@gmail.com' -p '*******' -c '**********'
+$ kg download -u <username> -p <password> -c <competetionname>
 ```
     * u - username
     * p - password
@@ -33,16 +34,18 @@ $ kg download -u '******@gmail.com' -p '*******' -c '**********'
 This will download all the files related to that comptetion to your current directory. 
 
 * Downloading a specific data file in the competetion
+
 ```
-$ kg download -u '******@gmail.com' -p '*******' -c '*********' -f '***********'
+$ kg download -u <username> -p <password> -c <competetionname> -f <filename>
 ```
     * f - filename
         
 Note: Before downloading the data for any competition make sure you are entering the competetion by accepting the terms and conditions of the competetion, then only you can download the data for that particular comptetion. 
 
 * Making submission for a competition
+
 ```
-$ kg submit <filename> -u '*******@gmail.com' -p '*********' -c '************' -m "message"
+$ kg submit <filename> -u <username> -p <password> -c <competetionname> -m "message"
 ```
 * Example: 
 
