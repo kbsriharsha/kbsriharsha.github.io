@@ -10,6 +10,9 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
+plugins:
+  - jekyll-seo-tag 
+
 # jekyll-paginate configuration
 paginate:            5
 
