@@ -17,16 +17,35 @@ Due to the high volumes of the competetion data, downloading the kaggle compteti
 
 * Downloading kaggle-cli
     ```
-    *sudo pip install kaggle-cli*
+    sudo pip install kaggle-cli
     ```
 Once the kaggle-cli is installed on the server, this will expose kg shell command, using which we can the data for a particular competetion and even submit the prediction results. 
 
-* Downloading the data for a particular competetion
+* Downloading the data for a competetion
+    ```
+    kg download -u '******@gmail.com' -p '*******' -c '*******************'
+    ```
+    * u - username
+    * p - password
+    * c - competetion name
+This will download all the files related to that comptetion to your current directory. 
 
-*kg download -u ******@gmail.com' -p '*******' -c '*******************'*
-      * u - username
-      * p - password
-      * c - competetion name
-Note: 
+Note: Before downloading the data for any competition make sure you are entering the competetion by accepting the terms and conditions of the competetion, then only you can download the data for that particular comptetion. 
 
-
+Example: 
+    ```
+    kg download -u kbsriharsha@gmail.com -p harsha124 -c datasciencebowl2018
+    ```
+* Making submission for a competition
+    ```
+    kg submit <filename> -u '*******@gmail.com' -p '*********' -c '************' -m "message"
+    ```
+* Other Important commands include
+    * complete       print bash completion command
+    * config         Set config
+    * dataset        Download dataset from a specific user
+    * download       Download data files from a specific competition
+    * help           print detailed help for another command
+    * submissions    List recent submissions
+    * submit         Submit an entry to a specific competition
+    
