@@ -23,7 +23,7 @@ Below are some of the important useful CLI commands which comes in handy while m
 ### Important Anacoda Commands
 
 
-```python
+```
 # For opening jupyter notebook, anaconda navigator and Spyder
 $ jupyter-noteook
 $ anaconda-navigator
@@ -31,19 +31,19 @@ $ spyder
 ```
 
 
-```python
+```
 # For checking anaconda version and installed details
 $ conda info
 ```
 
 
-```python
+```
 # Updating conda
 $ conda update conda
 ```
 
 
-```python
+```
 # Installing and Updating a package in anaconda
 $ conda install <packagename>
 $ conda install pandas
@@ -52,14 +52,14 @@ $ conda update pandas
 ```
 
 
-```python
+```
 # Commandline help
 $ <commandname> --help
 $ conda install --help
 ```
 
 
-```python
+```
 # Searching for a package and installing through a channel
 $ anaconda search -t conda <packagename>
 $ anaconda search -t conda pandas
@@ -68,13 +68,13 @@ $ conda install -c ryan pandas
 ```
 
 
-```python
+```
 # Listing all available environments
 $ conda env list
 ```
 
 
-```python
+```
 # Listing all the available libraries, revisions and restoring to a previous version in the current environment
 $ conda list
 $ conda list --revisions
@@ -82,7 +82,7 @@ $ conda install --revision 2
 ```
 
 
-```python
+```
 # Creating a new environment
 $ conda create -n <envname> <reqlibraries>
 # Creating a env with python 3.5 and installing all the anaconda library packages
